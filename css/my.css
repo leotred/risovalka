@@ -67,7 +67,7 @@ body, html{
     width: 250px;
     border: 1px solid rgb(99, 99, 99 / 0%);
     background-color: #ffffff54;
-    bckdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
     border-radius: 8px;
     cursor: default;
     padding: 18px;
